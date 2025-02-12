@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Ahmed Mohamed Salaheddin  
 
-🚀 **Junior  Mobile App Developer | Computer Engineering Student**  
+🚀 **Mobile App Developer | Computer Engineering Student**  
 🎓 **Zagazig University**  
 
 <p align="center">
@@ -8,17 +8,17 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F78C6C&center=true&vCenter=true&width=700&lines=Learning+Mobile+App+Development;Exploring+Data+Structures+%26+Algorithms;Practicing+OOP+%26+Flutter+Development;Curious+About+Embedded+Systems+%26+Arduino!+🚀" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F78C6C&center=true&vCenter=true&width=700&lines=Expert+in+Mobile+App+Development;Mastering+Flutter+%26+Cross-Platform+Development;Exploring+Embedded+Systems+%26+Arduino!+🚀" alt="Typing Animation" />
 </p>
 
 ---
 
 ## 🔥 About Me  
-- 🔹 **Enthusiastic about mobile app development**  
-- 🔹 Building a solid foundation in **Data Structures & Algorithms**  
-- 🔹 Practicing **OOP and Flutter Development**  
+- 🔹 **Passionate about mobile app development**  
+- 🔹 Expertise in **Flutter and Cross-Platform Development**  
 - 🔹 Exploring **Embedded Systems & Arduino**  
-- 💡 Always open to **learning, experimenting, and growing** through new experiences.  
+- 🔹 Committed to **building scalable and efficient applications**  
+- 💡 Always eager to **learn, innovate, and share knowledge**.  
 
 ---
 
@@ -43,7 +43,7 @@
 - GitHub  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dart,flutter,androidstudio,git,github,vscode,figma,arduino" />
+  <img src="https://skillicons.dev/icons?i=dart,flutter,androidstudio,git,github,vscode,arduino" />
 </p>
 
 ---
