@@ -29,6 +29,21 @@
 
 ---
 
+## 📂 Projects  
+### 1. Zahra Dates (E-Commerce App) – 2023  
+- Developed an e-commerce app for date sales, increasing user engagement by 30%.
+- Automated testing and deployment processes, improving development efficiency by 40%.
+
+### 2. Banking Cards & E-Payments Management App – 2023  
+- Designed and developed an app for managing bank cards and e-payments, enhancing transaction speed by 30%.
+- Improved user ratings by 25% by focusing on intuitive UI/UX design.
+
+### 3. Weather App – 2022  
+- Built a weather app using Flutter with real-time API integration, increasing daily active users by 20%.
+- Enhanced user experience with advanced data visualization, boosting user satisfaction by 15%.
+
+---
+
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" />
