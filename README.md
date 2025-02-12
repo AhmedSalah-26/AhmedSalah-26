@@ -41,7 +41,7 @@ An app for managing bank cards and e-payments, making transactions easier and im
 A simple yet powerful weather application using real-time API integration to provide accurate forecasts with interactive data visualization.  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="500">
+  <img src="https://media.giphy.com/media/Lmy23L3RkJ0sEWokRN/giphy.gif?cid=ecf05e47jgyl0sbm1wikjkaqusqire2hmfwayjn0zc1jizm0&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="500">
 </p>
 
 
