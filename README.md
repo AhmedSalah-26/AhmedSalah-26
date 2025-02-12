@@ -1,73 +1,47 @@
-# Hi there! 👋 I'm Ahmed Mohamed Salah  
+# 👋 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F78C6C&center=false&vCenter=true&width=500&lines=Ahmed+Mohamed+Salah" alt="Ahmed Mohamed Salah" />
 
 🚀 **Mobile App Developer | Computer Engineering Student**  
 🎓 **Zagazig University**  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100">
-</p>
-
-<p align="center">
   <img src="https://res.cloudinary.com/dzg2700cz/image/upload/t_Profile/v1732410673/1732410581801_vcwedy.png" width="320" height="320" style="border-radius: 50%;" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F78C6C&center=true&vCenter=true&width=700&lines=Expert+in+Mobile+App+Development;Mastering+Flutter+%26+Cross-Platform+Development;Exploring+Embedded+Systems+%26+Arduino!+🚀" alt="Typing Animation" />
 </p>
 
 ---
 
 ## 🔥 About Me  
-- 🔹 **Passionate about mobile app development**  
-- 🔹 Expertise in **Flutter and Cross-Platform Development**  
-- 🔹 Exploring **Embedded Systems & Arduino**  
-- 🔹 Committed to **building scalable and efficient applications**  
-- 💡 Always eager to **learn, innovate, and share knowledge**.  
+- Passionate about mobile app development  
+- Specializing in Flutter and cross-platform development  
+- Exploring embedded systems and Arduino  
+- Focused on building scalable and efficient applications  
+- Always eager to learn, innovate, and share knowledge  
 
 ---
 
 ## 🚀 Technologies & Tools  
-### **Languages:**  
-- C  
-- Java  
-- Dart  
-
-### **Frameworks & Libraries:**  
-- Flutter  
-- JavaFX  
-
-### **Databases:**  
-- MySQL  
-- Firebase  
-
-### **Tools:**  
-- Android Studio  
-- VS Code  
-- Git  
-- GitHub  
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dart,flutter,androidstudio,git,github,vscode,arduino" />
+  <img src="https://skillicons.dev/icons?i=dart,flutter,androidstudio,git,github,vscode,arduino,firebase,mysql" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="500">
+  <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="500">
 </p>
 
 ---
 
 ## 📂 Projects  
-### 1. Zahra Dates (E-Commerce App) – 2023  
-- Developed an e-commerce app for date sales, increasing user engagement by 30%.
-- Automated testing and deployment processes, improving development efficiency by 40%.
+### Zahra Dates (E-Commerce App)  
+An e-commerce application for date sales, designed to enhance user experience and engagement. Features automated processes for smoother transactions.  
 
-### 2. Banking Cards & E-Payments Management App – 2023  
-- Designed and developed an app for managing bank cards and e-payments, enhancing transaction speed by 30%.
-- Improved user ratings by 25% by focusing on intuitive UI/UX design.
+### Banking Cards & E-Payments Management App  
+An app for managing bank cards and e-payments, making transactions easier and improving user experience with an intuitive interface.  
 
-### 3. Weather App – 2022  
-- Built a weather app using Flutter with real-time API integration, increasing daily active users by 20%.
-- Enhanced user experience with advanced data visualization, boosting user satisfaction by 15%.
+### Weather App  
+A simple yet powerful weather application using real-time API integration to provide accurate forecasts with interactive data visualization.  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="500">
+</p>
 
 ---
 
