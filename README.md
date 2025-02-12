@@ -1,5 +1,5 @@
 # Hi there! 👋  
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F78C6C&center=false&vCenter=true&width=500&lines=Ahmed+Mohamed+Salah" alt="Ahmed Mohamed Salah" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F78C6C&center=false&vCenter=true&width=500&lines=Ahmed+Mohamed+Salah" alt="I'm Ahmed Mohamed Salah " />
 
 🚀 **Mobile App Developer | Computer Engineering Student**  
 🎓 **Zagazig University**  
@@ -44,14 +44,7 @@ A simple yet powerful weather application using real-time API integration to pro
   <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="500">
 </p>
 
----
 
-## 😂 Just for Fun  
-<p align="center">
-  <img src="https://media.giphy.com/media/jUwpNzg9IcyrK/giphy.gif" width="500" alt="Funny GIF" />
-</p>
-
----
 
 ## 📊 GitHub Stats  
 <p align="center">
