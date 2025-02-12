@@ -3,7 +3,7 @@
 🚀 **Junior Mobile App Developer | Computer Engineering Student**  
 🎓 **Zagazig University**  
 
-![Profile Picture](https://your-image-url.com)  
+![Profile Picture]([https://your-image-url.com](https://res.cloudinary.com/dzg2700cz/image/upload/v1732410673/1732410581801_vcwedy.png))  
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F78C6C&center=true&vCenter=true&width=600&lines=Passionate+Mobile+App+Developer;Skilled+in+Dart%2C+Flutter%2C+and+Kotlin;Exploring+New+Technologies+Everyday!+🚀" alt="Typing SVG" />
