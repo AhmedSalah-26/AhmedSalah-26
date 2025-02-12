@@ -23,6 +23,25 @@
 ---
 
 ## 🚀 Technologies & Tools  
+### **Languages:**  
+- C  
+- Java  
+- Dart  
+
+### **Frameworks & Libraries:**  
+- Flutter  
+- JavaFX  
+
+### **Databases:**  
+- MySQL  
+- Firebase  
+
+### **Tools:**  
+- Android Studio  
+- VS Code  
+- Git  
+- GitHub  
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=dart,flutter,androidstudio,git,github,vscode,figma,arduino" />
 </p>
