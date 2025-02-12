@@ -118,19 +118,16 @@ A simple yet powerful weather application using real-time API integration to pro
 
 ---
 
-## 📫 Let's Connect!  
+## 👯‍♂️ Let's Connect!  
 <p align="center">
-  <a href="ahmed01020865017@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Email-informational?style=flat&logo=gmail&color=D14836" />
+  <a href="mailto:ahmed01020865017@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Email-informational?style=flat&logo=gmail&color=D14836" />
   </a>
   <a href="https://www.linkedin.com/in/ahmed-salah-519170220/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin" />
   </a>
-</p>
-">
+  <a href="https://github.com/AhmedSalah-26">
     <img src="https://img.shields.io/badge/GitHub-Profile-informational?style=flat&logo=github&color=181717" />
   </a>
-  <a href="https://www.linkedin.com/in/ahmed-salah-519170220/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin" />
-  </a>
 </p>
+
