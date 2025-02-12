@@ -1,5 +1,5 @@
 # Hi there! 👋  
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F78C6C&center=false&vCenter=true&width=500&lines=Ahmed+Mohamed+Salah" alt="I'm Ahmed Mohamed Salah " />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F78C6C&center=false&vCenter=true&width=500&lines=Ahmed+Mohamed+Salah" alt="  I'm Ahmed Mohamed Salah " />
 
 🚀 **Mobile App Developer | Computer Engineering Student**  
 🎓 **Zagazig University**  
