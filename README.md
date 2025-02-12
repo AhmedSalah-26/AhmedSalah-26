@@ -1,7 +1,11 @@
-# Hi there! 👋 I'm Ahmed Mohamed Salah 
+# Hi there! 👋 I'm Ahmed Mohamed Salah  
 
 🚀 **Mobile App Developer | Computer Engineering Student**  
 🎓 **Zagazig University**  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100">
+</p>
 
 <p align="center">
   <img src="https://res.cloudinary.com/dzg2700cz/image/upload/t_Profile/v1732410673/1732410581801_vcwedy.png" width="320" height="320" style="border-radius: 50%;" />
@@ -44,6 +48,10 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=dart,flutter,androidstudio,git,github,vscode,arduino" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="500">
 </p>
 
 ---
