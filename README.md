@@ -44,7 +44,7 @@ A simple yet powerful weather application using real-time API integration to pro
   <img src="https://media.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif?cid=ecf05e47abtn8ypej065yodl9ivc0d51l4p092j93w4m7n78&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200">
 </p>
 
-
+---
 
 ## 📊 GitHub Stats  
 <p align="center">
@@ -57,9 +57,18 @@ A simple yet powerful weather application using real-time API integration to pro
 
 ---
 
-## 📫 Let's Connect!  
+## 📫 Let's Connect!
 <p align="center">
-  <a href="# Hi there! 👋  I'm 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F78C6C&center=false&vCenter=true&width=500&lines=Ahmed+Mohamed+Salah" alt=" Ahmed Mohamed Salah " />
-
-
+  <a href="https://www.linkedin.com/in/ahmed-salah-519170220/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/ahmedsalah-26">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="mailto:ahmed01020865017@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://ahmedsalah-26.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-FFA500?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio">
+  </a>
+</p>
