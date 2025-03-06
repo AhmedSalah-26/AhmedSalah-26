@@ -3,10 +3,12 @@
 
 🚀 **Mobile App Developer | Computer Engineering Student**  
 🎓 **Zagazig University**  
-
-<p align="center">
-  <img src="https://res.cloudinary.com/dzg2700cz/image/upload/t_Profile/v1732410673/1732410581801_vcwedy.png" width="320" height="320" style="border-radius: 50%;" />
-</p>
+📍 **Dakahliya, Mansoura City**  
+📧 **ahmed01020865017@gmail.com**  
+📞 **+20 1020865017**  
+🔗 **[LinkedIn](https://www.linkedin.com/in/ahmed-salah-519170220/)**  
+🐙 **[GitHub](https://github.com/ahmedsalah-26)**  
+🌍 **[Portfolio](https://ahmedsalah-26.github.io/)**  
 
 ---
 
@@ -44,22 +46,22 @@ A simple yet powerful weather application using real-time API integration to pro
   <img src="https://media.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif?cid=ecf05e47abtn8ypej065yodl9ivc0d51l4p092j93w4m7n78&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200">
 </p>
 
-
+---
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedsalah-26&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedsalah-26&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ## 📫 Let's Connect!  
 <p align="center">
-  <a href="# Hi there! 👋  I'm 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F78C6C&center=false&vCenter=true&width=500&lines=Ahmed+Mohamed+Salah" alt=" Ahmed Mohamed Salah " />
-
-
+  <a href="https://www.linkedin.com/in/ahmed-salah-519170220/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+  <a href="https://github.com/ahmedsalah-26">![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)</a>
+  <a href="https://ahmedsalah-26.github.io/">![Portfolio](https://img.shields.io/badge/Portfolio-FFA500?style=for-the-badge&logo=firefoxbrowser&logoColor=white)</a>
+</p>
