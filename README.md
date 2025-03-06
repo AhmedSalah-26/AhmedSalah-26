@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejF6anYyOWxpcjJqazZhZ3Y2ZXEwY3ptY3VtdGowZDhoemFpdThlZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif" width="500">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
 </p>
 
 ---
@@ -41,7 +41,7 @@ An app for managing bank cards and e-payments, making transactions easier and im
 A simple yet powerful weather application using real-time API integration to provide accurate forecasts with interactive data visualization.  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif?cid=ecf05e47abtn8ypej065yodl9ivc0d51l4p092j93w4m7n78&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200">
+  <img src="https://media.giphy.com/media/Y4bzv6DYbYztsoY9KT/giphy.gif" width="200">
 </p>
 
 ---
