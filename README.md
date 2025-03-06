@@ -1,6 +1,4 @@
-Here's your README with more emojis to make it more engaging and visually appealing! 🚀🔥  
 
----
 
 # Hi there! 👋 😊 I'm  
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F78C6C&center=false&vCenter=true&width=500&lines=Ahmed+Mohamed+Salah" alt="Ahmed Mohamed Salah" />  
