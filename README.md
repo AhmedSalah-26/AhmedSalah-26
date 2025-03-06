@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <img src="https://res.cloudinary.com/dzg2700cz/image/upload/t_Profile/v1732410673/1732410581801_vcwedy.png" width="500">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejF6anYyOWxpcjJqazZhZ3Y2ZXEwY3ptY3VtdGowZDhoemFpdThlZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif" width="500">
 </p>
 
 ---
