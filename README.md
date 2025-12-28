@@ -32,16 +32,27 @@
 
 ---
 
-## 📂 Projects 🚀 
+## 📂 Projects
 
-###🌴 Zahra Dates (E-Commerce App)
-🛍️ Multi-vendor e-commerce platform for premium dates. Customers can shop from multiple merchants, while each merchant manages their own products, orders, coupons & shipping. Features: cart, favorites, order tracking, flash sales, deep linking, dark/light themes, AR/EN support.
+### 🌴 Zahra Dates — Multi-Vendor E-Commerce
+A full-featured marketplace for premium dates where customers shop from multiple merchants. Each merchant manages their own inventory, orders, coupons & shipping rates. Includes cart, favorites, real-time order tracking, flash sales, deep linking, push notifications, and AR/EN localization with dark/light themes.
 
-### 💳 Banking Cards & E-Payments Management App  
-💰 A financial app for managing **bank cards & e-payments**, ensuring **secure & seamless transactions** with an intuitive UI.  
+**Tech:** Flutter • Supabase • BLoC • GoRouter
 
-### ☀️ Weather App  
-🌍 A **real-time weather application** using **API integration**, providing **accurate forecasts** with **interactive data visualization**.  
+### 🏥 Siha Hub — Healthcare & Medical Appointments
+A comprehensive healthcare app for managing medical appointments and personal health. Features doctor booking with specialty search, health status monitoring, medication reminders, medical records, blood donation, health tips, and emergency hotline. Supports push notifications, dark/light themes, and AR/EN localization.
+
+**Tech:** Flutter • BLoC • GoRouter • Dio • Clean Architecture
+
+### 💳 Banking Cards & E-Payments Manager
+A secure financial app for managing bank cards and digital payments. Features intuitive card management, transaction history, and seamless payment processing with a clean, user-friendly interface.
+
+**Tech:** Flutter • Secure Storage • REST APIs
+
+### ✅ Task Management App
+A productivity app for organizing daily tasks with categories, priorities, and due dates. Features task creation, editing, completion tracking, and local data persistence for offline access.
+
+**Tech:** Flutter • SQLite • Local Storage • Supabase 
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200">
