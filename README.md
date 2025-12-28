@@ -60,19 +60,14 @@ A productivity app for organizing daily tasks with categories, priorities, and d
 
 ---
 
-## 📊 GitHub Stats 🚀  
+## 💡 What I Offer
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ahmedsalah-26&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedsalah-26&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedsalah-26&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+- 📱 **End-to-End Mobile Development** — From UI design to app store deployment
+- 🏗️ **Clean & Scalable Code** — Using Clean Architecture & BLoC pattern
+- 🔗 **Backend Integration** — REST APIs, Supabase, Firebase
+- 🌍 **Localization & Theming** — AR/EN support with dark/light modes
+- 💳 **Complex Features** — Payments, real-time tracking, authentication
+- 🤝 **Collaboration Ready** — Git workflow, clean documentation
 
 
 ---
