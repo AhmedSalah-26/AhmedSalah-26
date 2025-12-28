@@ -32,9 +32,10 @@
 
 ---
 
-## 📂 Projects 🚀  
-### 🌴 Zahra Dates (E-Commerce App)  
-🛍️ An e-commerce app for date sales, enhancing **user experience & engagement** with automated processes for smoother transactions.  
+## 📂 Projects 🚀 
+
+🌴 Zahra Dates (E-Commerce App)
+🛍️ Multi-vendor e-commerce platform for premium dates. Customers can shop from multiple merchants, while each merchant manages their own products, orders, coupons & shipping. Features: cart, favorites, order tracking, flash sales, deep linking, dark/light themes, AR/EN support.
 
 ### 💳 Banking Cards & E-Payments Management App  
 💰 A financial app for managing **bank cards & e-payments**, ensuring **secure & seamless transactions** with an intuitive UI.  
