@@ -1,10 +1,9 @@
-
-
+```markdown
 # Hi there! 👋 😊 I'm  
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F78C6C&center=false&vCenter=true&width=500&lines=Ahmed+Mohamed+Salah" alt="Ahmed Mohamed Salah" />  
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F78C6C&center=false&vCenter=true&width=500&lines=Ahmed+Mohamed+Salah" alt="Ahmed Mohamed Salah" />
 
 🎯 **Mobile App Developer | 🖥️ Computer Engineering Student**  
-🎓 **Zagazig University**  
+🎓 **Zagazig University**
 
 <p align="center">
   <img src="https://res.cloudinary.com/dzg2700cz/image/upload/t_Profile/v1732410673/1732410581801_vcwedy.png" width="320" height="320" style="border-radius: 50%;" />
@@ -13,6 +12,7 @@
 ---
 
 ## 🔥 About Me 🚀  
+
 - 💙 Passionate about mobile app development  
 - 📱 Specializing in **Flutter & cross-platform development**  
 - 🔌 Exploring **embedded systems & Arduino**  
@@ -22,6 +22,7 @@
 ---
 
 ## ⚡ Technologies & Tools  
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=dart,flutter,androidstudio,git,github,vscode,arduino,firebase,mysql" />
 </p>
@@ -52,7 +53,7 @@ A secure financial app for managing bank cards and digital payments. Features in
 ### ✅ Task Management App
 A productivity app for organizing daily tasks with categories, priorities, and due dates. Features task creation, editing, completion tracking, and local data persistence for offline access.
 
-**Tech:** Flutter • SQLite • Local Storage • Supabase 
+**Tech:** Flutter • SQLite • Local Storage
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200">
@@ -61,17 +62,23 @@ A productivity app for organizing daily tasks with categories, priorities, and d
 ---
 
 ## 📊 GitHub Stats 🚀  
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedsalah-26&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedsalah-26&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedsalah-26&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ## 📫 Let's Connect! 🌎  
+
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmed-salah-519170220/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -86,4 +93,4 @@ A productivity app for organizing daily tasks with categories, priorities, and d
     <img src="https://img.shields.io/badge/Portfolio-FFA500?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio">
   </a>
 </p>
-
+```
